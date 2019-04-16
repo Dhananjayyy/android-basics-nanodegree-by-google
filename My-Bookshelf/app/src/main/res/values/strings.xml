@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Bookshelf</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="error_while_deleting_books">Error while deleting books</string>
+    <string name="all_books_deleted">All books deleted</string>
+    <string name="delete_all_books">Delete All Books</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="required">Required</string>
+    <string name="price_cannot_be_negative">Price cannot be negative</string>
+    <string name="quantity_cannot_be_negative">Quantity cannot be negative</string>
+    <string name="editor_insert_book_failed">Error while saving book</string>
+    <string name="editor_insert_book_successful">Book Saved</string>
+    <string name="editor_update_book_failed">Error with updating pet</string>
+    <string name="editor_update_book_successful">Book Updated</string>
+    <string name="error_deleting_book">Error while deleting book</string>
+    <string name="book_deleted">Book Deleted</string>
+    <string name="discard_changes_and_quit_editing">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_this_book">Delete this Book?</string>
+    <string name="add_new_book">Add New Book By Pressing The + Button</string>
+    <string name="library_view">Library View</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="source">Source</string>
+    <string name="phone">Phone</string>
+    <string name="no">NO :</string>
+    <string name="price1">PRICE :</string>
+    <string name="sale">SALE</string>
+    <string name="contact_seller">Contact Seller</string>
+</resources>

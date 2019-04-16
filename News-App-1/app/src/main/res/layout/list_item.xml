@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:padding="@dimen/eight_dp"
+    >
+
+    <TextView
+        android:id="@+id/articleType"
+        android:layout_width="@dimen/sixty_dp"
+        android:layout_height="@dimen/forty_two_dp"
+        android:layout_gravity="center_vertical"
+        app:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:background="@drawable/text_category_bg"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/twelve_sp"
+        tools:text="" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="@dimen/nine_dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:textStyle="bold"
+            android:id="@+id/primary_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/color_value_2B3D4D"
+            android:textSize="@dimen/twelve_sp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="@dimen/one_forty_dp"
+        android:layout_height="@dimen/forty_five_dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginStart="@dimen/nine_dp"
+        android:textAlignment="center"
+        android:background="@drawable/text_end_bg"
+        android:orientation="vertical">
+
+        <TextView
+
+            android:id="@+id/date"
+            android:layout_width="@dimen/one_twenty_five_dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/twelve_sp"
+            tools:text="" />
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="@dimen/one_hundred_ten_sp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/twelve_sp"
+            tools:text=""/>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
+

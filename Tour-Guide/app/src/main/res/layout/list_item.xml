@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    >
+
+    <TextView
+        android:id="@+id/location_title_text_view"
+        android:layout_height="wrap_content"
+        android:theme="@style/Name"
+        android:layout_width="match_parent"
+        />
+
+    <ImageView
+        android:layout_below="@id/location_title_text_view"
+        android:id="@+id/location_picture_image_view"
+        android:contentDescription="all_pictures"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        />
+
+    <TextView
+
+        android:layout_below="@id/location_picture_image_view"
+        android:id="@+id/location_description_text_view"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:theme="@style/Description"
+        />
+
+    <TextView
+        android:layout_below="@id/location_description_text_view"
+        android:id="@+id/location_address_text_view"
+        android:drawableEnd="@drawable/ic_open_in_new_black_24dp"
+        android:autoLink="map"
+        android:theme="@style/LocationText"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        />
+
+
+</RelativeLayout>

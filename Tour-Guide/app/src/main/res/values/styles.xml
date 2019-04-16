@@ -1,0 +1,74 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="android:itemBackground">#ffffff</item>
+        <item name="android:textColor">#000000</item>
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#009688</item>
+
+    </style>
+
+    <style name="Name">
+
+        <item name="android:gravity">center_vertical|left</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="Description">
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:padding">2dp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="android:icon">@drawable/ic_home_black_24dp</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Images">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:cropToPadding">false</item>
+        <item name="android:scaleType">fitXY</item>
+
+    </style>
+
+
+    <style name="LocationText">
+        <item name="android:gravity">end</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="HomeLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/fragment_padding</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/home_screen_text_size</item>
+    </style>
+
+
+</resources>

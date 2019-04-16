@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:title="@string/pune"
+            />
+
+        <item android:title="@string/popular_attractions"
+            android:checkable="false"
+            >
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:icon="@drawable/ic_beach_access_black_24dp"
+                        android:id="@+id/forts"
+                        android:title="@string/forts_trekking" />
+                    <item
+                        android:icon="@drawable/ic_location_city_black_24dp"
+                        android:id="@+id/temples"
+                        android:title="@string/temples" />
+                    <item
+                        android:icon="@drawable/ic_local_cafe_black_24dp"
+                        android:id="@+id/cafes"
+                        android:title="@string/cafes" />
+                    <item
+                        android:icon="@drawable/ic_local_mall_black_24dp"
+                        android:id="@+id/malls"
+                        android:title="@string/malls" />
+                </group>
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

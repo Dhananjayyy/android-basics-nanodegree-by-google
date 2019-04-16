@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name">Pune Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings for the navigation drawer menu-->
+
+    <!-- Strings for the home screen-->
+
+    <string name="pune_wiki">Welcome to Pune \n\n\n
+         Pune, formerly spelled Poona,is the second largest city in the Indian state of Maharashtra, after Mumbai. It is the ninth most populous city in the country with an estimated population of 3.13 million. \n\n
+        The city is considered to be the cultural capital of Maharashtra. It is also known as the "Oxford of the East" due to the presence of several well-known educational institutions.
+        \n\n The old city of Pune is at the confluence of the Mula and Mutha rivers. The Pavana, a tributary of Mula river and Indrayani river, a tributary of the Bhima river, traverse the northwest suburbs of Pune.</string>
+    <string name="pratapgad_description">Pratapgad is usually visited as a day-trip from the hill station of Mahabaleshwar, a popular tourist destination located 25 kilometres away. ST bus service have run daily excursion services to places around Mahabaleshwar including Pratapgad for decades.Many schools also arrange educational trips to the fort. The fort is also on many trekking routes of the area.</string>
+    <string name="rajgad_description">Rajgad (Ruling Fort) is a hill fort situated in the Pune district of Maharashtra, India. Formerly known as Murumdev, the fort was the capital of the Maratha Empire under the rule of Chhatrapati Shivaji Maharaj for almost 26 years, after which the capital was moved to the Raigad Fort.[1] Treasures discovered from an adjacent fort was used to completely build and fortify the Rajgad Fort.</string>
+    <string name="shivneri_description">Located in Pune district, this place is known for the birth of Maratha King Chattrapati Shivaji. It was one of the most important forts during the Maratha rule.</string>
+    <string name="shaniwarwada_description">Shaniwarwada is a historical fortification in the city of Pune in Maharashtra, India. Built in 1732, it was the seat of the Peshwas of the Maratha Empire until 1818, when the Peshwas lost control to the British East India Company after the Third Anglo-Maratha War. Following the rise of the Maratha Empire, the palace became the center of Indian politics in the 18th century The fort itself was largely destroyed in 1828 by an unexplained fire, but the surviving structures are now maintained as a tourist site.</string>
+    <string name="vaishali_name">Hotel Vaishali</string>
+    <string name="vaishali_description">Vaishali is one of the most popular restaurant among the student community of Pune, Situated on the Fergusson College Road. Vaishali attracts all the college crowd.</string>
+    <string name="vaishali_address">F.C. College Road, Pune</string>
+    <string name="taj_name">Hotel Taj</string>
+    <string name="taj_description">Experience true grandeur at The Taj Mahal Palace, the iconic sea-facing landmark in Colaba, South Mumbai.This flagship Taj hotel offers you splendid views of the Arabian Sea and Gateway of India, alongside refined century-old hospitality</string>
+    <string name="taj_address">Near Gateway of India, Mumbai</string>
+    <string name="shivneri_name">Shivneri Fort</string>
+    <string name="shivneri_address">Junnar, Pune</string>
+    <string name="pratapgad_name">Kille Pratapgad</string>
+    <string name="pratapgad_address">Poladpur Mahabaleshwar Road, Pune</string>
+    <string name="rajgad_name">Rajgad Fort</string>
+    <string name="rajgad_address">Rajgad Fort, Pune</string>
+    <string name="shaniwarwada_name">Shaniwarwada</string>
+    <string name="shaniwarwada_address">Shaniwarwada, Pune</string>
+    <string name="phoenix_name">Phoenix Market City</string>
+    <string name="phaoenix_description">Phoenix Market City is a shopping mall developed by Phoenix Mills Limited located in Pune, Maharashtra. It was opened in January 2011 and is one of the largest malls in India, with the area of 3.4 million square feet. It is located in the Vimannagar area of Pune.</string>
+    <string name="phoenix_address">Pune-Nagar Road, Pune</string>
+    <string name="central_name">Central Mall</string>
+    <string name="central_description">Check out the latest fashion trends for men and women from Central store. Spread across 38 locations serving over 500 brands in India></string>
+    <string name="central_address">Pimpri, Pune</string>
+    <string name="dagdusheth_name">Dagdusheth Halwai</string>
+    <string name="dagdusheth_description">Shreemant Dagdusheth Halwai Ganapati Temple in Pune is dedicated to the Hindu God Ganesh. The temple is popular in Maharashtra and is visited by thousands of pilgrims every year. Devotees of the temple include celebrities and Chief Ministers of Maharashtra who visit during the annual ten-day Ganeshotsav festival.</string>
+    <string name="dagdusheth_address">Budhwar Peth, Pune</string>
+    <string name="pataleshwar_name">Pataleshwar</string>
+    <string name="pataleshwar_description">The Pataleshwar Cave Temple (also called Panchaleshvara or Bamburde) is a rock-cut cave temple, carved out in the 8th century in the Rashtrakuta period.It is located in what is now Pune, in the state of Maharashtra, India. It was originally situated outside the town, but the city limits have expanded so that it is now located on the downtown Jangli Maharaj Road.</string>
+    <string name="pataleshwar_address">Jangli Maharaj Road</string>
+    <string name="iskon_name">Iskon Temple</string>
+    <string name="iskon_description">ISKCON New Vedic Cultural Center is a temple of Radha-Krishna.It was recently inaugurated on the auspicious occasion of Nityananda Tryodshi which falls on 23 February 2013 and the President of India Pranab Mukherjee inaugurated the Vedic Cultural Centre of the International Society for Krishna Consciousness on 24 February, at Pune.</string>
+    <string name="iskon_address">Kondhwa, Pune</string>
+    <string name="shirdi_name">Shirdi Saibaba</string>
+    <string name="shirdi_description">Shirdi is famously known as the home of the late 19th century saint Sri Sai Baba.The Sri Saibaba Sansthan Trust also located in Shirdi is one of the richest temple organisations.</string>
+    <string name="shirdi_address">Shirdi, Ahmednagar</string>
+    <string name="pune_train_junction">Pune Train Junction</string>
+    <string name="pune">Pune</string>
+    <string name="popular_attractions">Popular Attractions</string>
+    <string name="forts_trekking">Forts/Trekking</string>
+    <string name="temples">Temples</string>
+    <string name="cafes">Cafes</string>
+    <string name="malls">Malls</string>
+</resources>

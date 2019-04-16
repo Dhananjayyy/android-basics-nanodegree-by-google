@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="ndroid.support.design.widget.AppBarLayout$ScrollingViewBehavior"
+    tools:context="com.example.android.pune.MainActivity"
+    tools:showIn="@layout/app_layout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="ExtraText,UseCompoundDrawables">
+
+
+        <ImageView
+            style="@style/Images"
+            android:contentDescription="@string/pune_train_junction"
+            android:src="@drawable/pune_junction" />
+
+        <TextView
+            style="@style/HomeLayout"
+            android:text="@string/pune_wiki" />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

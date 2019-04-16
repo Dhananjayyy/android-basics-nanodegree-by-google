@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/milli"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="#000000"
+            android:contentDescription="@string/main_activity_logo"
+            android:src="@drawable/milliways1" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/milli"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/if_you_ve_done_six_impossible_things_this_morning_why_not_round_it_off_with_breakfast_at_milliways"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="30dp"
+            android:text="@string/the_restaurant_at_the_end_of_the_universe"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+
+        <TextView
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView4"
+            android:layout_centerHorizontal="true"
+            android:autoLink="phone"
+            android:background="@android:color/transparent"
+            android:drawableStart="@drawable/ic_call_black_24dp"
+            android:paddingTop="30dp"
+            android:text="@string/call_9657212458"
+            android:textColor="#ffffff" />
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/galactic"
+            android:gravity="center"
+            android:paddingTop="55dp"
+            android:text="@string/guests_can_visit_it_as_many_times_as_they_wish_and_be_sure_of_never_meeting_themselves_because_of_the_embarrassment_this_usually_causes"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:id="@+id/special"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textView2"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:paddingTop="25dp"
+            android:text="@string/main_activity_special"
+            android:textColor="#ffffff"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:id="@+id/glass"
+            android:layout_width="55dp"
+            android:layout_height="65dp"
+            android:layout_below="@id/special"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/glasslogo"
+            android:paddingTop="30dp"
+            android:src="@drawable/glass" />
+
+        <TextView
+            android:id="@+id/galactic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/special"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="85dp"
+            android:text="@string/pan_galactic_gargle_blaster"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+</ScrollView>

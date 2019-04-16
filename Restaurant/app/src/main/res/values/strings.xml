@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Milliways</string>
+    <string name="main_activity_special">Today\'s Special :</string>
+    <string name="main_activity_logo">logo</string>
+    <string name="if_you_ve_done_six_impossible_things_this_morning_why_not_round_it_off_with_breakfast_at_milliways">If you\'ve done six impossible things this morning, why not round it off with breakfast at Milliways!</string>
+    <string name="the_restaurant_at_the_end_of_the_universe">The Restaurant at the End of the Universe</string>
+    <string name="call_9657212458">Call - 9657212458</string>
+    <string name="guests_can_visit_it_as_many_times_as_they_wish_and_be_sure_of_never_meeting_themselves_because_of_the_embarrassment_this_usually_causes">Guests can visit it as many times as they wish and be sure of never meeting themselves, because of the embarrassment this usually causes.</string>
+    <string name="glasslogo">glasslogo</string>
+    <string name="pan_galactic_gargle_blaster">Pan Galactic Gargle Blaster</string>
+</resources>

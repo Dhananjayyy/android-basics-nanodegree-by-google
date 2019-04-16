@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Book Quiz</string>
+    <string name="question_1">1. Who is Zaphod Beeblebrox?</string>
+    <string name="question_2">2. What does the guide describes as the <b>"Best Drink in Existence"?</b></string>
+    <string name="question_3">3. Check which of the following is true: </string>
+    <string name="question_4">4. What is the name of this paranoid android?</string>
+    <string name="question_5">5. Which is the most intelligent creature on planet earth?</string>
+    <string name="question_6">6. What is the meaning of Life, The Universe and Everything?</string>
+    <string name="question_7">7. Which poetry is the third worst in the universe?:</string>
+    <string name="the_hitchhiker_s_guide_to_the_galaxy_logo">The Hitchhiker\'s Guide to the Galaxy Logo</string>
+    <string name="topic_hitchhiker_s_guide_to_the_galaxy_text">Book Name : Hitchhiker\'s Guide to The Galaxy</string>
+    <string name="a_vogon_text">
+        <b> A Vogon</b>
+    </string>
+    <string name="president_text"><b>President</b></string>
+    <string name="a_human_text"><b>A Human</b></string>
+    <string name="pan_galactic_gargle_blaster_text"><b>Pan Galactic Gargle Blaster</b></string>
+    <string name="ol_janx_spirit_text"><b>Ol\' Janx Spirit</b></string>
+    <string name="an_intelligent_shade_of_blue_text"><b>An Intelligent Shade of Blue</b></string>
+    <string name="the_president_has_no_real_power_text"><b>The President has no real power</b></string>
+    <string name="don_t_panic_is_written_on_the_cover_of_the_guide_text"><b>Don\'t Panic is written on the cover of the guide</b></string>
+    <string name="trillian_stole_heart_of_gold_text"><b>Trillian stole Heart of Gold</b></string>
+    <string name="a_robot_text">Hint : A Depressed Robot</string>
+    <string name="paranoid_android_text">Paranoid Android</string>
+    <string name="human_text">Human</string>
+    <string name="mice_text">Mice</string>
+    <string name="dolphin_text">Dolphin</string>
+    <string name="the_answer_text">The Ultimate Answer</string>
+    <string name="alien_text">An Alien</string>
+    <string name="submit_text">Submit</string>
+</resources>

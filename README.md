@@ -2,7 +2,7 @@
   <img src="accepted.png" alt="drawing" width="500"/>
 </p>
 <h2 align="center"> Android Basics By Google </h2>
-<a href="https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803">
+<a href="https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803"></a>
 
 ---
 

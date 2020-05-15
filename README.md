@@ -1,9 +1,8 @@
 <p align="center">
   <img src="accepted.png" alt="drawing" width="500"/>
-  <h2> Android Basics By Google </h2>
 </p>
-
-https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
+<h2 align="center"> Android Basics By Google </h2>
+<a href="https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803">
 
 ---
 

@@ -2,12 +2,15 @@
   <img src="accepted.png" alt="drawing" width="500"/>
 </p>
 <h2 align="center"> Android Basics By Google </h2>
-<a href="https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803">View the nanodegree Udacity</a>
 
 > This Nanodegree program was given to me by the **"Google India Scholarship Challenge"** program from Udacity.
 I completed this course in due time. It was thanks to my prior knowledge of developing and programming.
 Now, i've become a mobile developer for Android.
 These skills are precious to me.
+
+---
+
+<a href="https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803">Click to view this nanodegree on Udacity</a>
 
 <p align="center">
   <img src="certificate.svg" alt="drawing"/>

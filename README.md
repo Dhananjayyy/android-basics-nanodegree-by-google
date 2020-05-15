@@ -1,7 +1,8 @@
-# Udacity Android Graduate!
-<p align="center"><img src="accepted.png" alt="drawing" width="500"/></center></p>
+<p align="center">
+  <img src="accepted.png" alt="drawing" width="500"/>
+  <h2> Android Basics By Google </h2>
+</p>
 
-## Android Basics By Google
 https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 
 ---

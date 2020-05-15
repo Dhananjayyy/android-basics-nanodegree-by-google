@@ -13,6 +13,8 @@ https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803
 I completed this course in due time. It was thanks to my prior knowledge of developing and programming.
 Now, i've become a mobile developer for Android. These skills are precious to me.
 
+![Accepted](./accepted.png)
+
 ---
 
 ### Projects:
